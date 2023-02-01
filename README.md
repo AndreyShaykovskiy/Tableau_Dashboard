@@ -9,3 +9,6 @@
 - KPIs Profit Ключевые показатели прибыли
 - Profit Ratio by Category Соотношение прибыли по категориям
 - Table by region таблица по регионам
+
+#### Дашборд доступен по ссылке:
+https://public.tableau.com/views/KarpovDashboardPractice_16668800280650/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
